@@ -10,7 +10,7 @@ Installation
 Suggested installation method is through [composer](http://getcomposer.org/):
 
 ```php
-php composer.phar require swissengine/doctrine-module-extension:dev-master
+php composer.phar require joegreen88-liquid/doctrine-module-extension:~1.0
 ```
 
 Setup
